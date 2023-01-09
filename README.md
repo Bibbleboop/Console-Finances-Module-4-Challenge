@@ -21,12 +21,12 @@ Greatest Increase in Profits: Feb-2012 ($1926159)
 Greatest Decrease in Profits: Sept-2013 ($-2196167)
 
 
-Guidance was sought for examples and tocheck calculations : 
-    Chat GPT (https://chat.openai.com/      ) 
+Guidance was sought for examples and to check calculations : 
+    Chat GPT (https://chat.openai.com/)
     W3Schools (/www.w3schools.com/)
     https://www.geeksforgeeks.org/
     
-
+ <img src="./HTML JS LINK Screenshot.png" alt="java script index file linked in HTML">
 
 This Repos is covered by the MIT Licence 
 
