@@ -26,7 +26,7 @@ Guidance was sought for examples and to check calculations :
     W3Schools (/www.w3schools.com/)
     https://www.geeksforgeeks.org/
     
- <img src="./HTML JS LINK Screenshot.png" alt="java script index file linked in HTML">
+ <img src="./HTML JS LINK Screenshot.png" alt="JavaScript index file linked in HTML">
 
 This Repos is covered by the MIT Licence 
 
