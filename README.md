@@ -10,7 +10,7 @@ Loops and arrays are used to calculate the data and provide the following inform
 
 Financial Analysis
 
-Total Months: 86                               - check this before final submit -
+Total Months: 86                            
 
 Total $38382578
 
@@ -20,5 +20,14 @@ Greatest Increase in Profits: Feb-2012 ($1926159)
 
 Greatest Decrease in Profits: Sept-2013 ($-2196167)
 
+
+Guidance was sought for examples and tocheck calculations : 
+    Chat GPT (https://chat.openai.com/      ) 
+    W3Schools (/www.w3schools.com/)
+    https://www.geeksforgeeks.org/
+    
+
+
+This Repos is covered by the MIT Licence 
 
 
