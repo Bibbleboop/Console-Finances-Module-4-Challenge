@@ -10,7 +10,7 @@ Loops and arrays are used to calculate the data and provide the following inform
 
 Financial Analysis
 
-Total Months: 86 - check this before final submit -
+Total Months: 86                               - check this before final submit -
 
 Total $2561231
 
