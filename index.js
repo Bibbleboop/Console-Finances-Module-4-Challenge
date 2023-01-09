@@ -1,4 +1,5 @@
-var finances = [
+
+let finances = [
 ['Jan-2010', 867884],
 ['Feb-2010', 984655],
 ['Mar-2010', 322013],
@@ -86,3 +87,31 @@ var finances = [
 ['Jan-2017', 138230],
 ['Feb-2017', 671099]
 ];
+
+
+
+//Results Title  -                                          Output: Financial Analysis
+//                                              ---------------------------------------
+console.log("Financial Analysis");
+console.log("---------------------------------");
+
+//Number of months in dataset -                                  Output: Total Months:  86
+console.log("Total Months: "  + finances.length);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
