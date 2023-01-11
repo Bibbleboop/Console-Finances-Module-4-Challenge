@@ -88,37 +88,62 @@ let finances = [
 ['Feb-2017', 671099]
 ];
 
+/*
 
-
-//Results Title  -                                          Output: Financial Analysis
-//                                              ---------------------------------------
+//Results Title  -       Output: Financial Analysis
+//        ---------------------------------------
 console.log("Financial Analysis");
 console.log("---------------------------------");
-
-//Number of months in dataset -                                  Output: Total Months:  86
+*/
+//Number of months in dataset -         Output: Total Months:  86
+/*
+let months = 0;
 console.log("Total Months: "  + finances.length);
 
 
-
-let total = 0;
+//calculates total vale of profit loss colum for whole dataset
+let total = 0; 
 for (let i = 0; i < finances.length; i++) {
   total += finances[i][1];
 }
 console.log("Total:  " + '$' + total);  // prints $38382578
+*/
+
+// All OK to here and submitted //
+
+
+
+//  Monthly Changes of monthly Profit Loss totals 
+let monthlyChange = 0;
+let totalMonthlyChange = 0;
+//let finances = 0;
+
+
+for (let i = 0;  i < finances.length; i++) {
+monthlyChange = (finances[1][2] - finances[1][1]); 
+totalMonthlyChange = monthlyChange[i];
+console.log(totalMonthlyChange)/(finances.length-1);
+//console.log(totalMonthlyChange[2]);
+//console.log(totalMonthlyChange[3]);
+
+}
+// let monthlyChange = [];
+// let changeInSum = 0;
+
+// for (let i = 0;  i < finances.length; i++) {
+// let monthlyChange = finances[i] - finances[i-1];
+// changeInSum.push(monthlyChange);
+// }
 
 
 
 
+//console.log("Average Change: ")
 
 
 
+//let greatInc 
+// console.table(activities);
+//console.log("Greatest Increase in Profits: " )
 
-
-
-
-
-
-
-
-
-
+//console.log("Greatest Decrease in Profits: " )
